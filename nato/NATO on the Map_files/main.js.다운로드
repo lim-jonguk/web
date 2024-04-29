@@ -1,0 +1,3 @@
+'use strict';
+window.NatoApplication = window.NatoApplication || {};
+window.NatoApplication.config = {"layers":[1,2,3,4,5,8],"configurations":{"map-provider":"https:\/\/tiles.arcgis.com\/tiles\/TKP7XMjScccSWEIx\/arcgis\/rest\/services\/NATO_on_the_map_20102022\/MapServer"},"splash":{"en":{"splash":"Find out more about your country and NATO.","title_img":"title_en.png","url":"http:\/\/www.nato.int\/"},"fr":{"splash":"En savoir plus sur votre pays et l'OTAN.","title_img":"title_fr.png","url":"http:\/\/www.nato.int\/cps\/fr\/natohq\/index.htm"}}};
